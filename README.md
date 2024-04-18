@@ -31,4 +31,4 @@ As Numerapi.ai is a knowledge-based project, contributions are not accepted in t
 
 ## Contact
 
-For questions or support, please contact [email@example.com](mailto:email@example.com).
+For questions or support, please contact [info@oscowl.in](mailto:info@oscowl.in).
